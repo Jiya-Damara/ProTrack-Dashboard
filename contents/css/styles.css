@@ -73,7 +73,7 @@
     flex-direction: row;
     justify-content: center;
     align-content: center;
-    height: 10%;
+    height: 12%;
     width: 100%;
     padding: 10px;
     gap: 12px;
@@ -100,7 +100,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 50%;
+    height: 48%;
     width: 100%;
     padding: 3px;
 }
